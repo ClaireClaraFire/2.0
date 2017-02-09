@@ -1,6 +1,14 @@
+.wrapper{
+    display:grid;
+    grid-template-columns:100px 100px;
+    grid-gap:10px;
+    background-color:#fff
+    color:#444;
+}
+
 .box {
     
-    display:grid;
+    
     background-color:black;
     color:red;
     border-radius:5px;
