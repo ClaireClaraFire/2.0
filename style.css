@@ -1,4 +1,9 @@
 .box {
+    
     display:grid;
     background-color:black;
+    color:red;
+    border-radius:5px;
+    padding:20px;
+    font-size:150%
     }
