@@ -20,3 +20,8 @@ h1 {
     font:"Times New Roman";.
     position:center;
 }
+
+.a {
+    grid-column:2/3;
+    grid-row:1/2;
+}
