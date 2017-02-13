@@ -1,3 +1,7 @@
+body{
+    margin:40px;
+}
+
 .wrapper{
     display:grid;
     grid-template-columns:100px 100px;
