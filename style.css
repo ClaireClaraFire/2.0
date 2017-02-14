@@ -38,6 +38,8 @@ h1 {
 }
 a {
     text-decoration:none;
+    font-size:10px;
+    color:white;
 }
 body{
     background-image:url("https://wallpaperscraft.com/image/dark_spots_texture_background_50355_1920x1080.jpg");
